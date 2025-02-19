@@ -8,7 +8,7 @@ Choosing the right forex broker is crucial for traders aiming to maximize profit
 
 | **Asset** | **details** | 
 |-------------| -------------- | 
-| Trading platform | Metatrader 5 | 
+| Trading platform | WebTrader | 
 | Accounts | Demo, Silver, Gold, Platinum, Islamic | 
 | Account currency | EUR | 
 | Withdrawal | Bank transfers, Visa, Mastercard, Maestro, Neteller, Skrill, iDEAL, Klarna, Multibanko  | 
